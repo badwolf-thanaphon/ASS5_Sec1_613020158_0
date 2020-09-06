@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ass5Intent</string>
+    <string name="employee_form">Employee Form</string>
+    <string name="name">Name:</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="e_mail">E-mail :</string>
+    <string name="salary">Salary :</string>
+    <string name="send_data">SEND DATA</string>
+    <string name="reset">RESET</string>
+    <string name="employee_data">Employee Data</string>
+    <string name="test">test</string>
+    <string name="Close">CLOSE</string>
+</resources>

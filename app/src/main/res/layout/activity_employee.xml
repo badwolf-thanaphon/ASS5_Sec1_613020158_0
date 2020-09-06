@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".EmployeeActivity"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/employee_data"
+        android:textSize="30sp"
+          />
+    <TextView
+        android:id="@+id/Text_Employee_Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/test"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:id="@+id/Text_Gender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/test"
+        android:textSize="20sp"
+            />
+
+    <TextView
+        android:id="@+id/Text_Email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/test"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:id="@+id/Text_Salary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/test"
+        android:textSize="20sp"
+        />
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#03A9F4"
+        android:text="@string/Close"
+        android:onClick="ExitPageEmployee"
+        android:textSize="22sp"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
